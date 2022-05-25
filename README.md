@@ -13,3 +13,9 @@ Estou em busca de conhecimentos na área de Data Science
 
 :technologist: Conhecimento em Python nas bibliotecas(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Power BI, e Excel.
 
+### Meus Contatos:
+
+<div>
+<a href = "mailto:dujozala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlosjozala/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
