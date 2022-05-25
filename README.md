@@ -9,7 +9,7 @@ Estou em busca de conhecimentos na área de Data Science
 
 :man_student: Atualmente estudo Análise e Desenvolvimento de Sistemas na FMF-Wyden e Técnico em Informática para Internet no IFNMG, também sou formado em Técnico em Qualidade pelo IFSULDEMINAS.
 
-:closed_book: Realizando estudos em atualizando em Data Science, Business Intelligence, Machine Learning, CloudOps e Big Data. Buscando desenvolver projetos ao decorrer dos estudos
+:closed_book: Realizando estudos em Data Science, Business Intelligence, Machine Learning, CloudOps e Big Data. Buscando desenvolver projetos ao decorrer dos estudos
 
 :technologist: Conhecimento em Python nas bibliotecas(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), R(Dplyr e ggplot2), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Power BI, e Excel.
 
