@@ -1,7 +1,9 @@
 ## Olá, me Chamo Carlos Jozala !
 ### Seja bem vindo ao meu perfil do GitHub👋
 
+<div align="center">
 Tenho 20 anos e moro em Manaus-AM
+  </div>
 
 Estou em busca de conhecimentos na área de Data Science
 
