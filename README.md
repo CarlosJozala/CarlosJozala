@@ -12,7 +12,7 @@ Em busca de conhecimentos na área de Data Science
 
 :closed_book: Realizando estudos em Data Science, Automação de Processos, Machine Learning, CloudOps e Big Data. Buscando desenvolver projetos ao decorrer dos estudos
 
-:technologist: Conhecimento em Python nas bibliotecas(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), R(Dplyr e ggplot2), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Azure Cloud, GCP, Docker, ETL, Power BI e Excel.
+:technologist: Conhecimento em Python nas bibliotecas(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), R(Dplyr e ggplot2), Jupyter Notebook, SQL (SQL Server, MySQL e SQLite), Azure Cloud, GCP, ETL, Power BI e Excel.
 
 
 
