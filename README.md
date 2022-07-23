@@ -9,7 +9,7 @@ I'm a System Analysis and Development student with focus in Data Science.
 <div align="left">
  
 ``` js
-const stebs = {
+const Carlos = {
     personal: {
         fullName: 'Carlos Jozala',
         birthDate: '2001-08-25',
