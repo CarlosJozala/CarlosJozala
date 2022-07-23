@@ -19,7 +19,7 @@ const Carlos = {
         technologies: {
             Data Analysis: {
                 Python: ['Pandas', 'Matplotlib', 'Numpy', 'Seaborn', 'Sklearn', 'Statsmodels'],
-                SQL: ['SELECT', 'UPDATE', 'CREATE', 'EXECUTE', 'DDL', 'DML',],
+                SQL: ['SELECT', 'UPDATE', 'CREATE', 'EXECUTE', 'DDL', 'DML'],
                 R: ['ggplot2', 'Dplyr'],
             },
             Data Visualization: {
