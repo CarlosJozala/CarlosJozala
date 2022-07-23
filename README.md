@@ -2,7 +2,7 @@
 
 <div align="center">
   
-I'm a System Analysis and Development student with focus in Data Science.
+I'm a System Analysis and Development student with focus in Data Science :computer:
 
 <details>
   <summary> More about me</summary>
