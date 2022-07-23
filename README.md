@@ -1,22 +1,40 @@
-## Olá, me Chamo Carlos Jozala !
-### Seja bem vindo ao meu perfil do GitHub👋
+## <h1 align="center">Hello! I'm Carlos 👩🏻‍💻</h1>
 
-Em busca de conhecimentos na área de Data Science
+<div align="center">
+  
+I'm a System Analysis and Development student with focus in Data Science.
 
-:white_check_mark: Possuo experiência com utilização de ferramentas para análise de dados como SQL, Power BI, Python e R.
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const stebs = {
+    personal: {
+        fullName: 'Carlos Jozala',
+        birthDate: '2001-08-25',
+        interests: ['', 'games', 'language learning', 'travelling'],
+    },
+    technical: {
+        technologies: {
+            Data Analysis: {
+                Python: ['Pandas', 'Matplotlib', 'Numpy', 'Seaborn', 'Sklearn', 'Statsmodels'],
+                SQL: ['SELECT', 'UPDATE', 'CREATE', 'EXECUTE', 'DDL', 'DML',],
+                R: ['ggplot2', 'Dplyr'],
+            },
+            Data Visualization: {
+                Power BI: ['DAX', 'M'],
+                Excel: ['Dashboards', 'Data Manipulation', 'Advanced Formulas'],
+            },
+            Cloud: ['Google Cloud Plataform', 'Azure'],
+        },
+    }
+}
+```
+  </div>
+</details>
 
-:man_student: Atualmente estudo Análise e Desenvolvimento de Sistemas na FMF-Wyden e também sou formado em Técnico em Qualidade pelo IFSULDEMINAS.
-
-:closed_book: Realizando estudos em Data Science, Automação de Processos, Machine Learning, CloudOps e Big Data. Buscando desenvolver projetos ao decorrer dos estudos
-
-:technologist: Conhecimento em Python nas bibliotecas(Pandas, Matplotlib, Numpy, Seaborn, Sklearn e Statsmodels), R(Dplyr e ggplot2), Jupyter Notebook, SQL, Azure, GCP(Big Query, Shell e Machine Learning), ETL, Power BI e Excel.
-
-
-
-### Meus Contatos:
-
-
-<div>
-<a href  = "mailto:dujozala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href ="https://www.linkedin.com/in/carlosjozala/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Adujozala@gmail.com)](mailto:dujozala@gmail.com)
+[![Linkedin: Carlos Jozala](https://img.shields.io/badge/-CarlosJozala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/carlosjozala/)
+[![GitHub: CarlosJozala](https://img.shields.io/github/followers/CarlosJozala?label=follow&style=social)](https://github.com/CarlosJozala)
 </div>
