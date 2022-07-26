@@ -13,7 +13,7 @@ const Carlos = {
     personal: {
         fullName: 'Carlos Jozala',
         birthDate: '2001-08-25',
-        interests: ['', 'games', 'language learning', 'travelling'],
+        interests: ['games', 'language learning', 'travelling'],
     },
     technical: {
         technologies: {
