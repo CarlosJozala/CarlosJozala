@@ -20,11 +20,12 @@ const Carlos = {
             Data Analysis: {
                 Python: ['Pandas', 'Matplotlib', 'Numpy', 'Seaborn', 'Sklearn', 'Statsmodels'],
                 SQL: ['SELECT', 'UPDATE', 'CREATE', 'EXECUTE', 'DDL', 'DML'],
-                R: ['ggplot2', 'Dplyr'],
+                JavaScript
             },
             Data Visualization: {
                 Power BI: ['DAX', 'M'],
-                Excel: ['Dashboards', 'Data Manipulation', 'Advanced Formulas'],
+                Excel: ['Dashboards', 'Data Manipulation', 'Advanced Formulas', 'VBA'],
+                Looker: ['Dashboards', 'Data Cleaning'],
             },
             Cloud: ['Google Cloud Plataform', 'Azure'],
         },
